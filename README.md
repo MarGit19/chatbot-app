@@ -23,11 +23,10 @@ To get started with Chatta Box, follow these steps:
 ### Preview
 - Instant responses
 ![instant responses](https://github.com/MarGit19/chatbot-app/assets/134662796/7e0e957e-2ff0-4fd8-85fb-9b2d9a55c1d2)
-- No connection prompt
-![no connection prompt](https://github.com/MarGit19/chatbot-app/assets/134662796/dccd4f4c-2c5f-4ae8-8bbe-c1c61539ba5a)
 - Mobile-friendly design
 ![mobile-friendly design](https://github.com/MarGit19/chatbot-app/assets/134662796/dd875bbe-dcce-436e-bc2a-a13446d83023)
-
+- No connection prompt
+![no connection prompt](https://github.com/MarGit19/chatbot-app/assets/134662796/dccd4f4c-2c5f-4ae8-8bbe-c1c61539ba5a)
 
 ## Feedback
 We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using our app, please don't hesitate to reach out to us. You can contact us via email at martin.uche.dev@gmail.com.
