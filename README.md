@@ -2,10 +2,10 @@
 Chatta Box is a simple yet effective chatbot solution that can be easily integrated into any web page. By utilizing the ChatGPT API, Chatta Box provides accurate and context-aware responses to user questions, making it a versatile tool for various applications, from customer support to educational assistance.
 
 ## Features
--**Instant Responses:** Provides real-time answers to user queries using the ChatGPT API.
--**User-Friendly Interface:** Designed with simplicity and ease of use in mind, ensuring a smooth user experience.
--**Mobile-Friendly Design:** Responsive layout that works well on both desktop and mobile devices.
--**Easy Integration:** Can be effortlessly added to any website with minimal setup requirements.
+- **Instant Responses:** Provides real-time answers to user queries using the ChatGPT API.
+- **User-Friendly Interface:** Designed with simplicity and ease of use in mind, ensuring a smooth user experience.
+- **Mobile-Friendly Design:** Responsive layout that works well on both desktop and mobile devices.
+- **Easy Integration:** Can be effortlessly added to any website with minimal setup requirements.
 
 ## Getting Started
 To get started with Chatta Box, follow these steps:
