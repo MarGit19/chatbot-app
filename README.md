@@ -28,6 +28,7 @@ To get started with Chatta Box, follow these steps:
 - Mobile-friendly design
 ![mobile-friendly design](https://github.com/MarGit19/chatbot-app/assets/134662796/dd875bbe-dcce-436e-bc2a-a13446d83023)
 
+
 ## Feedback
 We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using our app, please don't hesitate to reach out to us. You can contact us via email at martin.uche.dev@gmail.com.
 
